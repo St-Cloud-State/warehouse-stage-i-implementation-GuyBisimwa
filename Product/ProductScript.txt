@@ -1,0 +1,93 @@
+Script started on 2024-09-30 03:30:03+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="159" LINES="30"]
+[0;32m@GuyBisimwa [0m➜ [1;34m/workspaces/warehouse-stage-i-implementation-GuyBisimwa/Product [0;36m([1;31mmain[0;36m) [0m$ javac *.java
+[0;32m@GuyBisimwa [0m➜ [1;34m/workspaces/warehouse-stage-i-implementation-GuyBisimwa/Product [0;36m([1;31mmain[0;36m) [0m$ java UserInterface
+
+--- Warehouse Management System ---
+1. Add Product
+2. Display All Products
+3. Search Product by ID
+4. Exit
+Enter your choice: 1
+Enter product name: Nike
+Enter product quantity: 3
+Enter product sale price: 100
+Product added successfully: Product [ID: P1, Name: Nike, Quantity: 3, Sale Price: $100.0]
+
+--- Warehouse Management System ---
+1. Add Product
+2. Display All Products
+3. Search Product by ID
+4. Exit
+Enter your choice: 1
+Enter product name: Adidas
+Enter product quantity: 4
+Enter product sale price: 50
+Product added successfully: Product [ID: P2, Name: Adidas, Quantity: 4, Sale Price: $50.0]
+
+--- Warehouse Management System ---
+1. Add Product
+2. Display All Products
+3. Search Product by ID
+4. Exit
+Enter your choice: 1
+Enter product name:Football Jersy
+Enter product quantity: 9
+Enter product sale price: 500
+Product added successfully: Product [ID: P3, Name: Football Jersy, Quantity: 9, Sale Price: $500.0]
+
+--- Warehouse Management System ---
+1. Add Product
+2. Display All Products
+3. Search Product by ID
+4. Exit
+Enter your choice: 2
+Product List:
+Product [ID: P1, Name: Nike, Quantity: 3, Sale Price: $100.0]
+Product [ID: P2, Name: Adidas, Quantity: 4, Sale Price: $50.0]
+Product [ID: P3, Name: Football Jersy, Quantity: 9, Sale Price: $500.0]
+
+
+--- Warehouse Management System ---
+1. Add Product
+2. Display All Products
+3. Search Product by ID
+4. Exit
+Enter your choice: 3
+Enter product ID to search: P1
+Product found: Product [ID: P1, Name: Nike, Quantity: 3, Sale Price: $100.0]
+
+--- Warehouse Management System ---
+1. Add Product
+2. Display All Products
+3. Search Product by ID
+4. Exit
+Enter your choice: 3
+Enter product ID to search: P2
+Product found: Product [ID: P2, Name: Adidas, Quantity: 4, Sale Price: $50.0]
+
+--- Warehouse Management System ---
+1. Add Product
+2. Display All Products
+3. Search Product by ID
+4. Exit
+Enter your choice: 3
+Enter product ID to search: P3
+Product found: Product [ID: P3, Name: Football Jersy, Quantity: 9, Sale Price: $500.0]
+
+--- Warehouse Management System ---
+1. Add Product
+2. Display All Products
+3. Search Product by ID
+4. Exit
+Enter your choice: 4
+[0;32m@GuyBisimwa [0m➜ [1;34m/workspaces/warehouse-stage-i-implementation-GuyBisimwa/Product [0;36m([1;31mmain[0;36m) [0m$ ^C
+[0;32m@GuyBisimwa [1;31m➜ [1;34m/workspaces/warehouse-stage-i-implementation-GuyBisimwa/Product [0;36m([1;31mmain[0;36m) [0m$ 
+[K[0;32m@GuyBisimwa [1;31m➜ [1;34m/workspaces/warehouse-stage-i-implementation-GuyBisimwa/Product [0;36m([1;31mmain[0;36m) [0m$ 
+[K[0;32m@GuyBisimwa [1;31m➜ [1;34m/workspaces/warehouse-stage-i-implementation-GuyBisimwa/Product [0;36m([1;31mmain[0;36m) [0m$ 
+[K[0;32m@GuyBisimwa [1;31m➜ [1;34m/workspaces/warehouse-stage-i-implementation-GuyBisimwa/Product [0;36m([1;31mmain[0;36m) [0m$ 
+[K[0;32m@GuyBisimwa [1;31m➜ [1;34m/workspaces/warehouse-stage-i-implementation-GuyBisimwa/Product [0;36m([1;31mmain[0;36m) [0m$ 
+[K[0;32m@GuyBisimwa [1;31m➜ [1;34m/workspaces/warehouse-stage-i-implementation-GuyBisimwa/Product [0;36m([1;31mmain[0;36m) [0m$ 
+[K[0;32m@GuyBisimwa [1;31m➜ [1;34m/workspaces/warehouse-stage-i-implementation-GuyBisimwa/Product [0;36m([1;31mmain[0;36m) [0m$ 
+[K[0;32m@GuyBisimwa [1;31m➜ [1;34m/workspaces/warehouse-stage-i-implementation-GuyBisimwa/Product [0;36m([1;31mmain[0;36m) [0m$ 
+[K[0;32m@GuyBisimwa [1;31m➜ [1;34m/workspaces/warehouse-stage-i-implementation-GuyBisimwa/Product [0;36m([1;31mmain[0;36m) [0m$ 
+[K[0;32m@GuyBisimwa [1;31m➜ [1;34
